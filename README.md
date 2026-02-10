@@ -4,8 +4,10 @@ code for Urban Perception through Multi-View Fusion: A Two-Stage Confidence-Driv
 
 # DataSets
 ● visual interpretative textual knowledge datasets
+
 file: datasets/place/final_merged_all_data.txt
-CoT: 
+
+CoT: CoT.py
 
 ● urban preception images dataset -> datasets/place/data_images
 
