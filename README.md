@@ -1,5 +1,5 @@
 # DACMF
-code for Urban Perception through Multi-View Fusion: A Confidence-Driven Deep Learning Framework
+code for Urban Perception through Multi-View Fusion: A Two-Stage Confidence-Driven Deep Learning Framework
 
 
 # DataSets
