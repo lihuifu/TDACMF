@@ -4,9 +4,8 @@ code for Urban Perception through Multi-View Fusion: A Two-Stage Confidence-Driv
 
 # DataSets
 ● visual interpretative textual knowledge datasets
-
-https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding (openai)
-
+file: datasets/place/final_merged_all_data.txt
+CoT: 
 
 ● urban preception images dataset -> datasets/place/data_images
 
