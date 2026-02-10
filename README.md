@@ -13,7 +13,7 @@ CoT: CoT.py
 
 https://www.dropbox.com/s/grzoiwsaeqrmc1l/place-pulse-2.0.zip?dl=1 
 
-# model
+# model training
 sh run.sh
 
 # Application
